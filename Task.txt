@@ -1,0 +1,14 @@
+Login = Divyank
+Sign up = Divyank
+Booking = Yatin
+View Review = Anshul
+Write review = Anshul
+Left Navigation search = Vivek
+Ajax search= Vivek
+ProductCatalog.xml,sax parser = Milind
+
+
+python = Vivek
+Trending
+Wishlist
+my bookings
